@@ -1,0 +1,1075 @@
+AGRICULTURAL
+ECONOMICS
+Agricultural Economics 42 (2011) 171–182
+Transaction costs in milk marketing: a comparison
+between Canada and Great Britain
+Annie Royer∗
+Department of Business Administration/Management Studies, Wageningen University, Hollandseweg 1, 6706 KN, The Netherlands
+Received 21 October 2009; received in revised form 26 May 2010; accepted 20 July 2010
+Abstract
+This study measures the magnitude of transaction costs incurred by milk producers in their contractual relations with dairy processors in two
+different coordination mechanisms: centralized contracting through a marketing board and decentralized bilateral contracting. Interviews and
+surveys were conducted to estimate transaction costs faced by producers marketing through the Que´bec milk marketing board in Canada and
+bilateral contracts in England and Wales in the United Kingdom using the measurement methodology of the cost of exchange. Our results show that
+the relative magnitude of transaction costs incurred by producers across both settings is quite low, which indicates that both hybrid coordination
+mechanisms minimize transaction costs in the dairy sector. However, results from the bilateral contracting setting indicate a strong heterogeneity
+of transaction costs levels among farmers. In that respect, the milk marketing board and its institutional setting would act as a collective insurance,
+pooling transaction costs and sharing them among producers. Our analysis leads to recommendations on bilateral contracting.
+JEL classifications: B4, D02, L14, Q13
+Keywords: Transaction cost; Marketing board; Contracts; Measurement methodologies; Institutions; Dairy sector
+1. Introduction
+For the last two decades, vertical linkages in the value chains
+of many agrifood sectors have tightened. This phenomenon is
+at the origin of a growing interest among scholars and prac-
+titioners for questions related to vertical coordination and the
+organization of transactions. In Canada, the vertical coordi-
+nation of products between producers and their downstream
+partners is done through marketing boards in many agricul-
+tural sectors. In the province of Que´bec, for instance, 90% of
+the total agricultural proceeds were marketed through market-
+ing boards in 2008.1 Canadian marketing boards are generally
+∗Corresponding author. Tel.: +31-317-482410; fax: +31-317-485454.
+E-mail address: annie.royer@wur.nl (A. Royer).
+Data Appendix Available Online
+A data appendix to replicate main results is available in the online version of
+this article. Please note: Wiley-Blackwell is not responsible for the content
+or functionality of any supporting information supplied by the authors. Any
+queries (other than missing material) should be directed to the corresponding
+author for the article.
+1 In 2008, there were 21 marketing boards involved in the marketing of
+agricultural, fishing, and timber products in Quebec.
+defined as “legislatively specified compulsory marketing insti-
+tutions which perform any of the functions of marketing on
+behalf of the producers of a particular agricultural commodity”
+(Veeman, 1987, p. 992).
+There is a large number of studies on the economical effi-
+ciency of boards (Barichello, 1981; Beck et al., 1994; Fulton
+and Tang, 1999; Richards, 1996) but to the best of our knowl-
+edge, it seems that none of them have focused on the role of
+these organizations on vertical coordination or their influence
+on transaction costs. Some scholars have mentioned the poten-
+tial advantages of boards in economizing on transaction costs
+and rationalizing some marketing operations (Johnson, 2000;
+St-Louis and Proulx, 1978; Westgren, 1994) but we are not
+aware of any empirical study that has been done to clarify the
+issue. The recent interest in vertical coordination efficiency is a
+good occasion to revisit the performance of marketing boards
+from a different perspective. In their study on vertical linkages
+within agrifood value chains, Hobbs and Young (2001) suggest
+analyzing the role of these organizations in the vertical coor-
+dination of transaction. The authors make the hypothesis that
+if marketing boards do not have market power and thus no ef-
+fect on market prices, then rents obtained by producers through
+boards could come from boards’ ability to “lower transaction
+c© 2010 International Association of Agricultural Economists DOI: 10.1111/j.1574-0862.2010.00506.x
+172 A. Royer/Agricultural Economics 42 (2011) 171–182
+costs in the value chain and to pass these cost savings back to
+farmers in the form of higher returns [. . .]” (Hobbs and Young,
+2001, p. 62).
+The objective of this article is to contribute to the debate
+on whether or not marketing boards have the capacity to de-
+crease transaction costs faced by producers with an evaluation
+of the magnitude of transaction costs incurred by producers
+when selling their milk through a marketing board. Since all
+milk produced in Canada has to be marketed through boards,
+bilateral contracts prevalent in England and Wales are exam-
+ined for comparison purposes. That way, our article overcomes
+a transaction costs economics’ basic selection problem. Gener-
+ally, one only observes costs for the organizational arrangement
+chosen, and so direct comparisons with costs of an alternative
+organization are impossible (Masten et al., 1991, p. 3). Unlike
+earlier studies, this article compares two existing alternative co-
+ordination mechanisms evolving in similar technological, eco-
+nomical, and institutional environments. Using transaction cost
+economics (TCE) (Coase, 1937; Williamson, 1985) and devel-
+oping a methodology based on previous similar works (Benham
+and Benham, 2005), this study identifies transaction costs as-
+sociated with alternative marketing channels in order to: (1)
+estimate the magnitude of transaction costs incurred by pro-
+ducers and (2) explain the disparity among marketing channels.
+Results show that transaction costs incurred by Que´bec pro-
+ducers are slightly lower than English producers but also, that
+the relative magnitude of transaction costs across coordination
+mechanisms remains very low. The genuine advantage of mar-
+keting boards, as far as transaction costs are concerned, would
+rather lie in their ability to pool transaction costs among pro-
+ducers so as to act like a collective insurance against circum-
+stantially high transaction costs. Indeed, our analysis shows
+that bilateral contracting leads to a strong heterogeneity of
+ex post transaction costs magnitudes, which may threaten the
+survival of dairy farms facing major contractual hazards. Al-
+though applied to specific contexts, our study may bring some
+useful insights to the current policy trend in Europe. As a mat-
+ter of fact, considering the growing interest of the European
+authorities toward contracting as a regulation tool in substitu-
+tion to dairy quotas, our results highlight the possible future
+producers’ challenges and the importance of an adequate insti-
+tutional framework to minimize producers’ transaction costs in
+a bilateral contracting setting.
+2. Coordination mechanisms
+The two coordination mechanisms considered in this arti-
+cle are the milk marketing board of the province of Que´bec
+(Canada) and bilateral contracts in England and Wales (Great
+Britain). The Canadian and British cases provide appealing
+comparative grounds since both countries have comparable
+public institutions and similar milk industries. They show rel-
+atively similar technology levels, production modes, consump-
+tion patterns, and market structures. Both dairy regions are
+Table 1
+Socioeconomic characteristics of the Que´bec and Great Britain dairy sectors,
+2005
+Que´bec England and Wales
+Number of producers 7422 14 ,732
+Number of processors 117 81
+Processor concentration1 8%–65% 21%–87.5%
+Cow productivity 75495 69832
+Cows per farm 51.6 (1113/964)5
+Liquid milk consumption per capita 94.76 111.22
+1Since data available on processing firms were aggregated, we could not calcu-
+late a Herfindahl index. We present the calculation of the concentration of the
+most important firms processing more than 100 million liters of milk per year.
+In Que´bec, these firms account for 8% of total firms and process 65% of all
+milk. In Great Britain, they account for 21% and process 87.5% of total milk.
+2For United Kingdom.
+3For England.
+4For Wales.
+5For 2006.
+6For Canada.
+Sources: Ageco (2007) and Milk Development Council (2007).
+supported by well-developed extension services, research and
+development institutions, and union organizations. Table 1 dis-
+plays some of the socioeconomic characteristics of the milk
+sector in both regions.
+The general institutional framework of both countries is also
+similar since Canada has adopted most British public institu-
+tions. The Constitution of Canada, the parliamentary and judi-
+ciary system, and the commercial law are all derived from the
+British ones. However, when it comes to the milk sector, impor-
+tant differences appear. In Canada, all milk producers are con-
+strained to sell their milk through provincial marketing boards,
+which negotiate contracts with milk buyers. To be effective,
+these boards have to be framed by a specific institutional set-
+ting. In the United Kingdom, producers were also constrained
+to sell to a marketing board until 1994. Milk marketing boards
+were, however, dismantled after a decrease in their efficiency
+following a series of institutional and organizational changes
+imposed by the European Union to fit the Common Agricul-
+tural Policy in 1973 and by the introduction of quotas in 1984 at
+the European level (Doyon et al., 1999). Since then, producers
+contract directly with private processors or cooperatives to sell
+their milk.
+2.1. The milk marketing board in Que´bec, Canada
+Better known in the economic literature for their horizontal
+coordination effects than their vertical coordination activities,
+marketing boards are granted with delegated powers from the
+state allowing them to intervene in the exchange of raw agri-
+cultural products between producers and purchasers. For many
+agricultural sectors in Canada, these organizations constitute the
+exclusive and mandatory contractual intermediary between pro-
+ducers and purchasers of agricultural products. The legislation
+enabling marketing boards provides for statutory safeguards
+A. Royer/Agricultural Economics 42 (2011) 171–182 173
+against boards acting contrary to the public interest through the
+creation of a public regulatory body supervising boards’ activi-
+ties. This authority also acts as a quasi-judicial specialized court
+when disputes among parties arise. The Que´bec milk market-
+ing board, created in 1981, displays a wide array of functions
+ranging from promotional activities to negotiation, centralized
+selling, and supply management.
+The Que´bec milk marketing board alters substantially the
+individual process of milk marketing at the producer level. In-
+stead of contracting directly with a dairy processor, producers
+delegate all their contractual operations to a producer board
+composed of elected producers and professional staff. Market-
+ing milk outside the board is illegal and is liable to lead to
+a dissuasive fine. Dairy cooperatives and processing investor-
+owned firms, hereafter called private purchaser, use a similar
+delegated configuration. Thus, three main agents take part in
+the contractual process: the producer board, the organization
+representing private purchasers, and the organization represent-
+ing cooperative purchasers. The producer board contracts with
+both purchasers’ organizations simultaneously, which implies
+that only two contracts are signed to coordinate the total milk
+production of the province of Que´bec. Both negotiated con-
+tracts are signed for a three-year period but are often extended.
+Contracts have to be approved by the regulatory body to be-
+come legal and enforceable. This contractual arrangement is
+atypical since parties contracting are not the economical agents
+themselves but the organizations representing them (Fig. 1).
+Transaction costs generated by milk transactions are therefore
+basically borne by the three organizations aforementioned.
+2.2. Bilateral contracts in England and Wales, United
+Kingdom
+Since the dismantlement of the milk marketing board in 1994,
+milk marketing in England and Wales is done through bilat-
+eral contracts between producers and purchasers. Producers
+can choose to sell their milk through three alternative market-
+ing channels: direct contracting with a milk purchaser; direct
+contracting with a milk purchaser supervised by a direct sell-
+ing group (DSG); and contract with a cooperative as a member
+(Franks, 2001, p. 633). Since processing capacities of cooper-
+atives are limited, they sell their milk surplus to private pro-
+cessors. There are thus two types of contractual relations down
+the dairy chain: contracts between producers and private proces-
+sors, and contracts between cooperatives and private processors
+(Fig. 2). We will not take into account the latter relation since
+it belongs to a secondary channel and it concerns only 27%
+of total milk marketed. Moreover, in this article, we seek to
+compare two significantly different organizational forms while
+cooperatives’ organizational nature is similar in many respects
+to marketing boards.
+Contracts signed between English producers and proces-
+sors are said to be evergreen since they are automatically re-
+newed until one party wants to terminate the contract. Contracts
+are usually developed by purchasers and offered to producers.
+These latter are thus contract takers. Some contracts between
+producers and private buyers are negotiated through a DSG.
+The main role of these groups is to rationalize producers’ and
+processors’ communications, and simplify the renegotiation of
+contracts. No statistics on their prevalence are available to ap-
+preciate their importance. Franks (2001, p. 632) notes, however,
+that approximately 12% to 15% of the producers would nego-
+tiate their contracts through dairy groups.
+3. Theoretical framework
+3.1. Transaction costs
+TCE makes the assumption that exchanges are not costless.
+Transaction costs are the costs resulting from property rights
+transfers between agents. Transaction costs theory is based
+on what Williamson (1985) calls the discriminating alignment
+hypothesis. This hypothesis states that depending on the di-
+mensions of transactions (asset specificity, uncertainty, and fre-
+quency) and behavioral assumptions (bounded rationality and
+opportunism), economical agents will choose institutions, or-
+ganizational forms, and transactions that minimize the cost of
+exchange.
+One of the major critics against TCE concerns the gap be-
+tween remarkable theoretical developments and the paucity of
+results in terms of direct measurement of transaction costs.
+Very few studies focus on evaluating the magnitude of trans-
+action costs and some scholars even consider this deficiency
+as a theory’s strength (Saussier and Yvrande-Billon, 2007). By
+using propositions based on characteristics of transactions and
+not directly on the level of costs, the transaction costs the-
+ory escapes a hazardous comparative exercise of governance
+structures, which is not relevant in many cases. Other scholars
+persist in developing methodologies for measuring transaction
+costs because, to cite a widespread axiom in the business world,
+“what gets measured, gets managed” (Benham and Benham,
+2005, p. 373; McCann et al., 2005, p. 527).
+Beyond this debate, it remains that the lack of empirical
+evaluations of transaction costs is nevertheless not surprising.
+Researchers that try to evaluate directly the magnitude of trans-
+action costs have to overcome many difficulties.2 First, there
+is no theoretical consensus over what are precisely transaction
+costs (Allen, 1991; Hobbs and Kerr, 1999). The many coex-
+isting definitions “offer powerful conceptual insights, but they
+have not been translated into widely accepted operational stan-
+dards” (Benham and Benham, 2005, p. 368). Second, estimating
+transaction costs is complicated by the difficulty of separating
+transaction and production costs. Third, if transaction costs are
+very high, some transactions might not take place. Opportunity
+costs of alternatives would preferably have to be taken into ac-
+count and these costs are not easily identifiable or quantifiable.
+2 For a more complete description of transaction costs estimations difficul-
+ties, see Benham and Benham (2005).
+174 A. Royer/Agricultural Economics 42 (2011) 171–182
+Fig. 1. Representation of physical transactions, contractual and regulated relations in the Que´bec milk marketing board.
+Fig. 2. Representation of physical transactions, and contractual and regulated relations in England and Wales.
+Finally, some agents, because of their characteristics or identity,
+do not face the same transaction costs. These differences may
+be difficult to identify by researchers. This list of difficulties
+is extended if we consider the efforts that have to be under-
+taken to create original data, since transaction costs are usually
+not collected in governmental census or in firms’ standard ac-
+countancy practices. The lack of transaction costs empirical
+estimates on their relative magnitude and variation across set-
+tings is puzzling. Filling this deficiency could surely improve
+transaction costs empirical research and it would broaden our
+understanding of various coordination mechanisms.
+3.2. Transaction cost measurement in the literature
+The lack of theoretical consensus over what are transaction
+costs has unsurprisingly given birth to a heterogeneous collec-
+tion of empirical works in terms of their measurement. Some
+studies consider transaction costs as the difference between
+prices paid by the buyer and received by the seller. This method-
+ology is especially suitable for the financial and transactional
+sectors. The most well-known piece of work done in this area is
+probably the article written by Wallis and North (1986) on the
+analysis of the U.S. transaction sector. Our present research falls
+within another research program, which considers transaction
+costs as the “value of resources used in locating trading partners
+and executing transactions” (Wang, 2003, p. 2). Many works
+of this research program have been made in the environmental
+and ecological economics fields (Falconer, 2000; Kuperan et
+al., 1998; McCann and Easter, 1999; McCann et al., 2005; Met-
+tepenningen et al., 2009). These studies focus on evaluating the
+magnitude of transaction costs associated with the conception
+and implementation of diverse public policies. Another set of
+studies are investigating the costs of transactions that private
+traders face. Benham and Benham (2005) and their research
+team are carrying out a series of studies on the cost of exchange
+(COE) based on a standardized methodology that they have
+developed.
+Defining the COE as “the sum of production costs and the
+specific transaction costs faced by the individual,” studies re-
+lated to this research program have attempted to evaluate the
+costs of starting up a new business, obtaining a business tele-
+phone, buying an apartment, or importing a physical asset
+(Benham and Benham, 2005, p. 371).
+A. Royer/Agricultural Economics 42 (2011) 171–182 175
+When it comes to the measurement of transaction costs gen-
+erated by interfirm relations in the agricultural sector, studies
+are relatively scarce.3 The study that resembles most what we
+intend to do here is the one done by Gabre-Madhin (2001) who
+measured the costs of labor time required in searching trad-
+ing partners and the opportunity cost of working capital during
+search for grain traders in Ethiopia. Her results demonstrate that
+transaction costs incurred during the information search period
+represented 19% of total transaction costs. Although applied to
+a developing country with a different institutional setting, this
+article suggests that transaction costs faced by private traders
+can be significant and that they may affect their competitive-
+ness. Our study contributes to this neglected literature while
+focusing on the comparison of two distinct hybrid coordination
+mechanisms used in developed countries. In the following sec-
+tions, we develop an analytical framework and a methodology
+for evaluating empirically the magnitude of transaction costs
+incurred by producers when selling their milk through different
+coordination mechanisms.
+4. Analytical framework for milk marketing
+4.1. Determinants of transaction costs
+Milk producers face numerous transaction costs when con-
+tracting with their downstream partners of the value chain but
+very few works have investigated the possible determinants of
+transaction costs in the case of milk marketing. There are even
+fewer empirical studies that examine their relative importance.
+Previous studies (Compres Lopez, 2007; Dieye, 2006) and our
+empirical observations of the sector indicate that transaction
+costs in milk marketing arise mainly from various uncertainties
+and the temporal specificity of milk transactions. Partners may
+engage in costly activities in order to attenuate uncertainty, thus
+generating transaction costs.
+Milk producers face different types or sources of uncertainty
+in raw milk transactions: price uncertainty, behavioral uncer-
+tainty, and information asymmetry. Producers face price un-
+certainty since they may not know in advance what price they
+will receive before final milk delivery. Producers also face be-
+havioral uncertainty from unbalanced negotiating power due to
+a generally oligopsonistic market structure in the milk sector
+and temporal specificity due to the perishable nature of milk,
+which translate into contractual commitment and enforcement
+uncertainties. The partners’ bilateral dependency created by
+transactions temporal specificity is an important determinant
+of transaction costs in the presence of potential opportunis-
+tic behaviors. Finally, producers have to deal with information
+asymmetry over quality grading and classification since dairy
+processors usually perform these tasks.
+3 A few papers have estimated transaction costs in the agrifood sector (see
+Hobbs, 1997; Key et al., 2000) but the methodologies used are different from
+what we intend to do in this article.
+Based on the determinants of transaction costs in milk mar-
+keting, we make the hypothesis that the milk marketing board,
+by reducing producers’ environmental and behavioral uncer-
+tainty, should be more effective in minimizing transaction costs
+faced by producers than bilateral contracts. As a matter of fact,
+the Que´bec milk marketing board sets a range of prices to
+negotiate with buyers, which decrease price uncertainty; the
+collective negotiation decreases the uncertainty related to the
+unbalanced partners’ bargaining powers; the board has cre-
+ated diverse mechanisms to monitor buyers’ utilization of milk,
+mitigating information asymmetry over product grading and
+weighting; and the regulatory body operates a payment guaran-
+tee program that protects producers against buyer insolvency.
+The collective coordination mechanism should therefore have
+a greater producers’ transaction costs minimization’s capacity
+than bilateral contracting.
+4.2. Transaction costs components
+In order to compare transaction costs’ magnitude of both
+marketing channels under consideration, a quantitative mea-
+sure of transaction costs is needed. Although there is no of-
+ficially recognized methodology for examining the magnitude
+of transaction costs, the recent works of Benham and Benham
+(2005) propose a standardized methodology that many authors
+have applied to comparative analysis. We decided to use this
+methodology because it is the one that best suits our needs
+for measuring transaction costs incurred by private agents in an
+exchange. In that methodology, a subset of the total costs gener-
+ated in a transaction is examined. This subset, designated as the
+COE, Cijkm, is defined as “the opportunity cost in resources—
+money, time and goods—for an individual with characteristics
+i to use a given form of exchange j to obtain a good k in an
+institutional setting m” (Benham and Benham, 2005, p. 370).
+Also, similar to the methodology developed by Benham and
+Benham (2005), our analytical framework does not account for
+indirect transaction costs related to the creation of institutions
+framing commercial exchanges, the development of a reputa-
+tion, personal networks, or specific abilities necessitated by the
+transaction. On the one hand, these costs are often very difficult
+to quantify, and on the other hand, we make the hypothesis that
+these costs offset each other in the comparison. Moreover, the
+cost of developing the framing institutions such as courts in Eng-
+land and the marketing board legislation in Canada have most
+likely been paid off since their inception. We are aware that this
+is a strong and arguable hypothesis and that our results must be
+interpreted accordingly, but measuring these costs would have
+been a colossal and often impossible task to perform.
+In order to structure our analysis, we divided the milk mar-
+keting contractual transaction into three main direct transac-
+tion costs items: information (I), negotiation (N), and moni-
+toring/enforcement (M) costs. Information costs occur ex ante
+to an exchange and include information search on products,
+trading partner, and market conditions. Negotiation costs also
+176 A. Royer/Agricultural Economics 42 (2011) 171–182
+occur ex ante and consist of the cost of realizing the transaction,
+which may include the cost of the negotiation process, contract
+redaction, etc. Monitoring and enforcement costs occur ex post
+to the signature of the contract and consist of monitoring, rene-
+gotiation, maladaptation, termination, and enforcement costs.
+5. Methodology and analysis
+5.1. Data collection
+When transposed in an empirical investigation, the method-
+ology used in this work suggests to choose and define some
+transaction in detail so that one can measure all resources used
+to carry out the transaction. In both marketing channels investi-
+gated, milk is sold to purchasers on a contractual basis, be it in-
+dividual or collective. Therefore, we consider the contract used
+in both settings as the analytical unit. Data collection has been
+conducted in a two-step procedure. The first step, conducted
+during the fall 2006 and 2007, consisted of interviewing repre-
+sentatives from key organizations involved in the marketing of
+milk and collecting information about the contractual process.
+This first step enabled us to outline the transactional process
+by determining what happens and when, who is involved and
+how does it proceed. Given the fact that the marketing board’s
+income statement is available, we could have estimated trans-
+action costs based on internal organization expenses. However,
+this method would not have been accurate enough since ex-
+penses consist mainly in costs that are not transaction costs
+per se such as lobbying and milk promotion costs. We thus un-
+dertake the measurement of transaction costs specifically gen-
+erated when the marketing board contracts with its partners.
+The second step consisted of collecting data about resources
+spent during the transactional process determined in Step 1. In
+the case of the marketing board setting, producers may incur
+transaction costs in basically two contractual relations. First,
+there is the delegated contractual relation between the market-
+ing board and the purchasers. Second, there is the representation
+relation between producers and the marketing board. Transac-
+tion costs at this level are observed when the marketing board
+validates and transmits requests from producers encountering
+problems with their milk deliveries to purchasers, as well as
+when there are litigations between producers and the board.
+In order to investigate transaction costs magnitude, we inter-
+viewed, during fall 2007, key marketing board employees in-
+volved in the contracting process concerning time and monetary
+expenses they incurred for each cost item during the last con-
+tracting period.
+For the bilateral contracting setting, we undertook a tele-
+phone survey of 62 milk producers in England and Wales
+throughout spring and fall 2008. A few socioeconomic and
+contractual statistics from our survey are presented in Table 2.
+The sample was drawn randomly from a list of dairy producers
+in the United Kingdom Yellow Pages. Interviews with a DSG
+and a cooperative were also conducted.
+Table 2
+Statistics from our survey of dairy farms in England and Wales, 2008
+Producers Producers Total sample
+selling to a selling to a
+cooperative private
+purchaser
+Observations = 62 42% 58% 100%
+Average cows/farm 154 181 169
+Yield/cow/year (liters) 6924 8031 7341
+Number of full-time
+workers including
+producer
+2,4 2,4 2,4
+Contract duration (years) 8,6 5,7 6,9
+Source: Data obtained from our survey, 2008.
+There are a number of limitations to the transaction costs
+direct measurement methodology. Some costs may have been
+omitted because they were difficult to identify or quantify such
+as opportunity costs. However, our two-step methodology re-
+duces potential omissions since it allowed us to have a good
+understanding of the two marketing channels and their poten-
+tial sources of costs. Another limit concerns the use, in studies,
+of perceptual items evaluated ex post. A number of authors
+in the management literature have noted that retrospective re-
+searches are subject to inaccuracies due to the fallibility of
+informant (Huber and Power, 1985; Miller et al., 1997). Our
+work does not escape this limitation but we tried to reduce
+its impact by combining more than one source of information
+when possible and by only using data from recent years (<5
+years). Moreover, in the case of England and Wales, we believe
+that individual producers are more disposed to better remember
+their own business experience than civil servants or employees
+for instance. Besides these limits, the measurement of direct
+transaction costs remains a relevant exercise. It opens the black
+box of the contracting process’ and allows us to pinpoint many
+contracts’ strengths and flaws that other methodologies cannot
+provide.
+Time data collected were translated into monetary terms. In
+the marketing board setting, we differentiated salaries accord-
+ing to the position held by the staff interviewed. Per-day wages
+of 350 Canadian dollars (CAD) for technician, CAD600 for
+professional, CAD1,500 for a lawyer, and CAD500 for elected
+producers were used. These wage data encompass the salary as
+well as work material costs.4 In England and Wales, we used
+the 2005 report of the Royal Association of British Dairy Farm-
+ers on costs of farmers’ own labor. We considered contracting
+as a farm management task and thus used a per hour average
+wage of £13.70 (RABDF, 2005). As for the time horizon delim-
+itation, we considered a five-year period, from 2003 to 2008.
+This period corresponds to the last marketing board contracting
+period.5 In order to compare the magnitude of costs in both
+4 These data were provided by the Fe´de´ration des producteurs de lait du
+Que´bec.
+5 The initial marketing board’s contracting period started in 2003 and was
+supposed to end in 2006. However, this period was extended and both contracts
+were still valid in 2008.
+A. Royer/Agricultural Economics 42 (2011) 171–182 177
+Table 3
+Information costs faced by producers in milk marketing through marketing boards in Que´bec and bilateral contracts in England and Wales, in CAD and British
+Pounds, 2003–2008
+Transaction cost Description Marketing board Individual contracting
+Total amount/number of producers
+Information search Information search – (94.92/62) × 13,70
+£20.97
+Get in touch with a buyer – (36.75/62) × 13.70
+£8.12
+Documenting the strategy and locating new stakes (6000/7133) –
+$0,84
+Strategy development Determining and denunciating problems encountered (8800/7133) –
+in the former contract $1.23
+Developing an initial strategy (9500/7133) –
+$1.33
+Board members’ agreement if necessary $0 –
+Total $3.40 £29.09
+Purchasing power parity 2005 US$2.81 US$44.82
+Source: Marketing board, our survey, and our calculations.
+countries, we converted the results with the 2005 purchasing
+power parity exchange rate.6
+5.2. Results
+5.2.1. Information costs
+Before negotiating a contract, sellers must usually first col-
+lect some information on the transaction such as prices, selling
+conditions, and potential purchasers and second, get in touch
+with the chosen partner. In the bilateral contract setting, pro-
+ducers incur price and purchaser discovery costs. Source of
+information are numerous: newspaper, word of mouth, Inter-
+net, and dairy advisors. Results from our survey indicate that
+most producers were either approached by a particular buyer or
+obtained information from word of mouth. These two sources
+of information imply very low transaction costs. The steps to
+get in touch with an eventual buyer vary from a simple phone
+call, to individual meetings with the purchaser and assisting to
+sessions organized by the buyer.
+In a marketing board, parties do not have to search for a
+contractual partner or a price. The contracting partner is known
+in advance and prices are partly regulated; traders are given a
+range to negotiate. Some professionals have mentioned during
+interviews that time spent on information search is not very
+important. On the other hand, the development of a negotiation
+strategy is important and may generate substantial costs. The
+development of a strategy consists of determining problems
+encountered in the former contract, locating new stakes, and
+developing an initial negotiation strategy.
+Table 3 shows the information costs magnitude obtained from
+our calculations. In the marketing board setting, we added up
+transaction costs amount for each type of cost generated over
+6 The purchasing power exchange rate equalizes the purchasing power of
+different currencies in their home countries for a given basket of goods. In
+2005, the coefficients for the Canadian dollar and the U.K. pound sterling
+relative to the U.S. dollar (1.0) were respectively, 1.21 and 0.649.
+the five-year period, and divided it by the number of producers
+in 2007 (7,133 producers) in order to get an average magnitude
+of transaction costs faced by an individual producer. Empty
+boxes indicate that no costs are associated with the transaction
+costs description specified. In the bilateral contracting setting,
+we added individual time data collected and divided them by the
+number of respondents to get an average amount for an individ-
+ual producer. We multiplied results obtained by the hourly wage
+to obtain a monetary data when needed. For instance, the 62
+English farmers interviewed spent a total of 94.92 hours in in-
+formation searching, which average 1.53 minutes per producer
+(94.92/62 producers) and represents £20.97 (1.53× £13.70). We
+only took into account transaction costs incurred after 2003 so
+as to keep only costs incurred during the five-year period. Some
+producers that have been contracting for more than five years
+with the same buyer might incur very low or no transaction
+costs at all.
+5.2.2. Negotiating costs
+Once the information search step is finished, parties begin
+to negotiate contractual terms and enter the negotiation phase.
+This second step differs quite a lot among marketing channels,
+as shown in this article. In the milk marketing board, parties
+meet within a negotiation committee composed of the three or-
+ganizations aforementioned (marketing board, cooperative pur-
+chaser organization, and private purchaser organization) and
+supervised by representatives of the Que´bec Ministry of Agri-
+culture and the regulatory body. The negotiation process can
+be divided in three phases: negotiation preparation, negotia-
+tion sessions, and ex post sessions analysis, which includes the
+elaboration of a counterstrategy. Contract negotiation may turn
+out to be very laborious since parties are engaged in a trilat-
+eral negotiation, which introduces important strategic aspects
+and adds to the task’s complexity. Many negotiation sessions
+are necessary to achieve a final agreement. Twenty-two hours
+were necessary to conclude contracts signed in 2003. As the
+178 A. Royer/Agricultural Economics 42 (2011) 171–182
+Table 4
+Negotiation costs faced by producers in milk marketing through marketing boards in Que´bec and bilateral contracts in England and Wales, in CAD and British pound,
+2003–2008
+Transaction costs Description Marketing board Direct contracting
+Total amount/number of producers
+Negotiation Contract reading – (41.50/62) × 13.70
+£9.17
+NFU legal services £87/62
+£1.40
+Negotiation preparation (8900/7133) –
+$1.25
+Negotiation sessions (22 000/7133) –
+$3.08
+Ex post session analysis and counterstrategy (8800/7133) –
+$1.23
+Validation by MB board of directors (2950/7133) –
+$0.41
+Contract writing (9000/7133) £0
+$1.26
+Redaction Contract signing – (31.25/62) × 13.70
+£6.90
+Conciliation (6600/7133) –
+$0.93
+Conflict during the negotiation process Arbitrage (13450/7133) –
+$1.89
+Provincial superior court (6700/7133) –
+$0.94
+Total $10.99 £17.47
+Purchasing power parity 2005 US$9.08 US$26.92
+Source: Marketing board, our survey, and our calculations.
+negotiation process leads to consensuses, parties draft the con-
+tract. Once written, proposed amendments are submitted to the
+negotiation committee for validation before the final draft is
+written.
+During the negotiation process, dissensions can occur. When
+disagreements arise, parties are first invited to use a process of
+conciliation. If this stage fails, parties go into arbitration, a more
+time- and resources-consuming solution. Costs are, however,
+controlled by the use of the regulatory body as an arbiter. If
+the decision reached by the regulator is not satisfactory for one
+of the parties, resort to the Que´bec provincial Superior Court
+is possible. This solution is nevertheless much more expensive
+for the parties, which must then call upon legal services.
+In England and Wales, private and cooperative purchasers
+propose contracts to producers. The result is a “take it or leave
+it” proposition, where the terms of the agreement are set by
+the purchaser and offered to producers. We expect negotiation
+costs to be very low in that setting. Moreover, purchasers assume
+contract-writing costs. Direct-selling groups are not involved in
+this contracting phase. Negotiation costs shown in Table 4 have
+been calculated with the same methodology as the information-
+phase costs.
+5.2.3. Enforcement/monitoring costs
+The monitoring of the collective contract in the milk mar-
+keting board is carried out through four committees (negotia-
+tion, technical, quality, and supply) created in order to make
+regulated contracts more flexible.7 Renegotiations ex post can
+prove to be very long and expensive for parties because of
+the regulated nature of the agreement and the disputes’ settle-
+ment process. Consequently, the law enabling marketing boards
+prohibits ex post renegotiations. Adaptation to the institutional
+environment translates into contract quasi-completeness: the
+parties try to safeguard against all unforeseen possibilities ex
+ante while inserting additional clauses in the contract at each
+renewal. The role of committees becomes in that sense essential
+for the good realization of the agreement, but also for transac-
+tion costs minimization.
+Most conflicts arising from the realization of the agreement
+concern the divergences of interpretation on clauses and ap-
+plication of the contract. When these situations occur, parties
+are invited to undertake a good agreement procedure.8 If the
+conciliation process fails, parties go into arbitration and follow
+the disputes’ settlement process as described in the negotia-
+tion costs section (Section 2). There have been two arbitrations
+7 The negotiation committee involved in the negotiation process is also in-
+volved in the supervision of the contract’s realization. The technical committee
+makes sure that the technical aspects (dairy products classification, system
+adaptation, and billing) of the milk transactions are well coordinated. The
+quality committee is responsible for maintaining and improving the quality of
+milk throughout the transaction. Finally, the supply committee is in charge of
+coordinating the supply of milk between producers and buyers.
+8 Objections of producers against purchasers are not directly conveyed to
+them. They are initially subjected to the marketing board and if considered
+relevant, the board notifies the purchaser.
+A. Royer/Agricultural Economics 42 (2011) 171–182 179
+Table 5
+Monitoring/enforcement costs faced by producers in milk marketing through marketing boards in Que´bec and bilateral contract in England and Wales, in CAD and
+British Pound, 2003–2008
+Transaction costs Description Marketing board Direct contracting
+Monitoring Signature committee (11,000/7133) –
+$1.54
+Technical committee (3600/7133) –
+$0.50
+Supply committee (10,400/7133) –
+$1.46
+Quality committee (3900/7133) –
+$0.55
+Enforcement NFU legal services – (£87/62)
+£1.40
+Private solution – (22/62) × 13.70 + £10387/62
+£172.39
+Status quo – Opportunity cost
+Objections (4650/7133) –
+$0.65
+Mediation $0 –
+Arbitrage (3400/7133) –
+$0.48
+Provincial superior court (7288/7133) –
+$1.02
+Conflict between office and producers (7800/7133)
+$1.09
+Contract termination Contract termination procedure – With bonus losses Without bonus losses
+(48/62) × 13.70 + £123,170/62) = £1997.22 (48/62) × 13.70 = £10.60
+Total $7.29 £2171.01 £184.40
+Purchasing power parity 2005 US$6.02 US$3345.16 $284.11
+Source: Marketing board, our survey, and our calculations.
+that ended up to the Que´bec Superior court during the last five
+years.9 Resort to the Superior Court can prove to be a quite
+expensive solution for both partners. Also, there have been five
+conflicts involving producers and their board over the same
+period.
+Monitoring and enforcing costs are not expected to be very
+high for producers in England and Wales since they do not
+have the bargaining power or the financial resources to safe-
+guard their contractual arrangement in courts. Legal assistance
+for producers that subscribed to the National Farmer Union
+(NFU) legal assistance service is, however, available to partly
+overcome this difficulty. Renegotiations do not occur frequently
+since the purchaser can modify the price or the selling condi-
+tions without the agreement of its suppliers. The main contrac-
+tual hazards occurring during the ex post phase of the transaction
+in England and Wales are dissensions over prices paid, notifi-
+cation periods, changes brought to level the annual production,
+cases of purchasers’ bankruptcies, and breaches of contract due
+to processors’ fusions.10
+Finally, some producers may want to terminate their contract
+in order to change purchaser. The contract termination pro-
+cess might imply penalties, compensation payments, or resort
+9 RMAAQ (2008).
+10 Source: interview with the NFU October 2007, MDC (2005), and our
+survey results.
+to legal assistance. Termination costs consist in most cases of
+writing a letter to the buyer in which they notify their will to
+terminate the contract. In a few cases, producers mentioned that
+they had to pay considerable penalties or compensations when
+terminating their contracts. Since considering bonus losses as
+transaction costs might be subject to debate, we decide to
+present the results with and without these costs. When taken
+into account, bonus losses rise up substantially the enforcement
+phase costs over the five-year period. We computed the NFU
+legal assistance services’ cost whenever producers used them.
+The calculation procedure used to obtained transaction costs
+magnitude in Table 5 is the same as the one used in previous
+tables.
+6. Discussion
+6.1. Transaction costs calculations
+The summary of our results and some additional calculations
+are presented in Table 6. We calculated the total amount of
+transaction costs incurred by an individual producer for both
+settings over the five-year period.
+The difference in transaction costs magnitude across coor-
+dination mechanisms (US$17.92 < US$355.87/3, US$3701.03
+with bonus losses) seems to be significant. These results corrob-
+orate our insights on the potential ability of marketing boards
+180 A. Royer/Agricultural Economics 42 (2011) 171–182
+Table 6.
+Transaction costs incurred by milk producers in the Que´bec milk marketing board and direct contracting in Great Britain, in CAD, British Pound and US$, 2003–2008
+Types of costs Marketing board Bilateral contracting
+Without bonus losses With bonus losses
+Information costs (I) 3.40$CAN 16% 29.09£ 12% 29.09£ 1%
+Negotiation costs (N) 10.99$CAN 50% 17.47£ 8% 17.47£ 1%
+Monitoring/enforcement costs (M) 7.29$CAN 34% 184.40£ 80% 2171.01£ 98%
+Total 2003–2008 21.68$CAN 100% 230.96£ 100% 2217.57£ 100%
+Purchasing power parity 2005 17.92$US 355.87$US 3416.90$US
+As a percentage of dairy farms average annual revenues (21.68/5)/CAD258,477 (230.96/5)/£118,659 (2217.57/5)/£118,659
+0.0017% 0.039% 0.4%
+Source: Our calculations.
+to decrease transaction costs. Moreover, although some trans-
+action costs measures might be approximate, the importance of
+the cost difference between the two settings allow us to con-
+clude on the capacity of the milk marketing board to reduce
+transaction costs faced by producers.
+6.2. Contractual phases
+A closer look at the magnitude of transaction costs at each
+contractual phase reveals the strengths and weaknesses of both
+organizational structures’ ability to minimize transaction costs.
+In Great Britain, negotiation costs are the lowest transaction
+costs with a share of 8.5% of total transaction costs. We ex-
+pected the negotiation costs to be rather low in Great Britain
+since there is no negotiation as such. Enforcement costs are the
+highest costs with 80% of total costs (98% if bonus losses are
+taken into account). The proportion of these costs is quite con-
+siderable and consists mostly of enforcement costs or contract
+termination costs if we consider bonus losses. Although En-
+glish producers do not entail legal contract enforcement costs
+since they consider courts too expensive, they engage in costly
+private solutions.
+In the marketing board setting, the lowest costs are infor-
+mation costs with 16% of the total costs. These costs are low
+since the marketing board forces producers to delegate their
+contracting operations, which rationalizes the number of inter-
+locutors and time required to search for a contractual partner.
+The negotiation costs are the highest and account for 50% of
+the total costs. Contract negotiation in the marketing board set-
+ting implies developing negotiation strategies, which is a long
+and costly process. Enforcement cost (34%), although lower
+than negotiation costs, are according to market participants in-
+terviewed, seriously increasing. Considering that these costs
+may become higher in the future for producers selling their
+milk through a board, and considering the proportion of these
+costs in the bilateral contracting setting, we conclude that the
+enforcement phase is definitely the weakest link of the contrac-
+tual process in both coordination mechanisms. Policy makers
+and authorities should therefore pay specific attention to these
+costs in the future.
+6.3. Relative importance of transaction costs
+Although transaction costs seem to be lower in the market-
+ing board setting, the relative magnitude of transaction costs
+across organizational forms is nevertheless very low, which
+challenges the actual transaction costs minimization effective-
+ness of boards. Transaction costs account for 0.0017% of the
+annual revenues of an average dairy farm in Que´bec and 0.039%
+(0.4% when bonus looses are considered) in England and Wales
+over the five-year period.11 The few studies that have measured
+private transaction costs indicate that these costs are generally
+considerable and that they are likely to affect agents’ compet-
+itiveness. Our results indicate that transaction costs are quite
+low in both coordination modes meaning that they should not
+seriously affect the competitiveness of the dairy industry. This
+result is somehow surprising since the literature is rather unan-
+imous on the issue: “transaction costs matter.” Two reasons can
+be given to interpret this result. First of all, the methodology
+used to measure transaction costs and the difficulties associated
+with measuring some costs might underestimate their impor-
+tance, notably opportunity costs and indirect transaction costs.
+Second, the low level of transaction costs might also mean that
+both organizational forms considered are adequate to coordi-
+nate raw milk transactions. Our results and observations lead
+us to conclude that transaction costs have most probably been
+underestimated in both settings but that they still remain very
+low compared to less coordinated settings or other agricultural
+sectors. The dairy sectors of both regions have reached a high
+level of institutional, technological, and behavioral stability that
+allows transaction costs minimization.
+6.4. Heterogeneity among farmers
+Considering this outcome, it seems that the main difference
+between both settings would lie not in their respective capacity
+to decrease transaction costs but rather in the heterogeneity of
+11 The average revenue is based on the average values of prices, number
+of cows per farm, and cow yields in 2006 in both regions with the follow-
+ing calculation. In Que´bec: ($0.6424/liter × 53.3 cow× 7,549 liters/cow) =
+CAD258,477 (Ageco, 2007). In England and Wales: (£0.1795/liter × 97 cow ×
+6,815 liters/cow) = £118,659 (MDC, 2007).
+A. Royer/Agricultural Economics 42 (2011) 171–182 181
+transaction costs magnitude incurred by individual producers.
+As a matter of fact, in bilateral contracts, the disparity of transac-
+tion costs faced by each producer is quite large. Some producers
+incur very low transaction costs, if not at all, whereas others face
+very high costs. For instance, producers implied in contractual
+litigations, which concerned 14 producers interviewed (23% of
+our sample), had financial losses varying from £29 to £10,000.
+Also, our survey reveals that 10 producers (16% of our sample)
+had to incur contract termination costs varying from £200 to
+£45,000. For these producers, transaction costs indeed matter.
+Producers incurring high contract termination costs show sim-
+ilar characteristics to the rest of the sample (150 cows; 7,355
+liters/cow/year; 2.2 full-time workers), which does not allow us
+to conclude on possible socioeconomic determinants of these
+costs. This situation does not happen in the marketing board
+setting. Marketing boards being a collective mode of coordinat-
+ing transactions, they allow producers to collectively negotiate
+the conditions of sale of their products, but also to pool the
+totality of transaction costs among them. By doing so, market-
+ing boards provide a transaction costs insurance for producers
+against especially high ex post transaction costs.
+7. Conclusion
+Evaluating directly the importance of transaction costs is not
+a widespread approach for analyzing coordination mechanisms
+but it has the advantage of opening a black box that allows a
+better understanding of where and how the main contracting
+costs during the exchange process are generated. Knowing the
+precise sources of transaction costs and their magnitude might
+be useful for any agent that wants to improve the efficiency of
+a specific coordination mechanism or assist a specific category
+of economic agents. Our investigation demonstrates that by an-
+alyzing in detail the dairy producers’ transactional process, we
+could find that the main difference between marketing milk
+through a marketing board and individual contracts in terms
+of transaction costs was the heterogeneity of transaction costs’
+levels borne by producers. While on average transaction costs
+were relatively low across both settings, a few English produc-
+ers incurred very high transaction costs that could eventually
+threaten the farm’s short-term viability. This issue has recently
+been very problematic for producers who had a contract with
+Dairy Farmers of Britain Limited (DFoB) when the cooperative
+faced serious financial problems and announced its liquidation
+in June 2009. Members supplying milk to DFoB had to in-
+cur very high transaction costs, notably the amount of their
+May milk deliveries, which averaged £10,000 to £15,000 per
+farm, and their investments in the cooperative, which approx-
+imated £50,000 according to NFU estimates (House of Com-
+mons, 2009). A farmer mentioned he had lost “circa £120,000
+in terms of capital investment and bad debt,” and added “Ef-
+fectively, it means that [. . .] I would have to work for two years
+for nothing” (House of Commons, 2009, p. 27). In a market-
+ing board setting, for instance, the payment guarantee program,
+financed by all producers, acts as an insurance against such
+transaction costs.
+Considering the potential advantages of marketing boards
+in reducing transaction costs and acting as insurance why are
+contracts more widespread than boards? Before answering this
+question, we must underline that our article does not pretend to
+conclude on the overall transactional effectiveness of marketing
+boards and that this issue represents potential further research
+topics. For instance, transaction costs faced by buyers should
+be assessed. Since marketing boards are producer-oriented or-
+ganizations, it is not obvious that marketing boards can lead to
+a reduction of transaction costs borne by processors. Indirect
+transaction costs can also be more deeply investigated, notably
+the cost of using the regulatory body disputes’ settlement ser-
+vices in the marketing board case. There are at least two major
+reasons that explain the prevalence of contracts over market-
+ing boards. First, marketing boards need a specific institutional
+framework to be effective and this legislative setting requires
+support from politics as well as set-up costs that public lead-
+ers are no longer willing to assume considering their political
+and economic agenda. Second, a trade-off must be operated
+between transaction costs and governance costs, the costs of in-
+ternalizing transaction costs. In that respect, marketing boards
+introduce some rigidities12 in the value chain coordination pro-
+cess due to their hierarchical nature, and are facing several
+challenges to respond more quickly to market demands. Mar-
+keting boards are thus not the optimal economic solution for all
+settings.
+Our results can bring some useful policy insights, espe-
+cially in the context of the current agricultural policy trend in
+Europe. European authorities have recently shown a keen inter-
+est in contracting as a regulation tool substituting dairy quotas.
+If contracting should become the rule in milk transactions co-
+ordination, our study suggests that policy makers should design
+an institutional framework that will minimize ex post transac-
+tion costs faced by farmers since these latter tend to be locked
+by the temporal specificity of transactions in their contractual
+relations with buyers and have a lower bargaining power. Also,
+since negotiation might be more advantageous to buyers for
+the same reasons, information on prices and buyer reputation
+should be available to producers to choose from the best options
+to minimize their transaction costs.
+Acknowledgments
+Part of this article was written while the author was a PhD
+candidate at the University of Paris 1 Panthe´on-Sorbonne. The
+author thanks the Fe´de´ration des producteurs du lait du Que´bec
+and the National Farmer Union for their participation in this
+study, as well as former colleagues from the Maison des sciences
+e´conomiques (Paris 1) for their valuable comments.
+12 According to many practioners familiar with marketing boards.
+182 A. Royer/Agricultural Economics 42 (2011) 171–182
+References
+Ageco Groupe, 2007. Faits saillants laitiers/dairy statistics. Available at http://
+www.groupeageco.ca/fr/statistiques/index.html, accessed October 2009.
+Allen, D. W., 1991. What are transaction costs? Res. Law Econ. 14, 1–18.
+Barichello, R. R., 1981. The Economics of Canadian Dairy Industry Regulation.
+Economic Council of Canada Technical Report No. E12. Ottawa.
+Beck, R., Hoskins, C., Mumey, G., 1994. The social welfare loss from egg and
+poultry marketing boards, revisited. Can J. Agric. Econ. 42, 149–158.
+Benham, A., Benham, L., 2005. Measuring the costs of exchange. In: Me´nard,
+C. (Ed.), Institutions, Contracts and Organisations: Perspectives from
+New Institutional Economics. Edward Elgar, Cheltenham, UK, pp. 367–
+375.
+Coase, R. H., 1937. The nature of the firm. Economica 4, 386–405.
+Compres Lopez, R., 2007. Modalidades de coordinacio´n y costes de transaccio´n
+en los mercados la´cteos del caribe colombiano. Presented at the VI Congreso
+Economı´a Agraria (AEEA), Albacete, September 2007.
+Dieye, P.N., 2006. Arrangements contractuels et performance des marche´s
+du lait local au sud du Se´ne´gal. PhD Thesis, Ecole Nationale Supe´rieure
+Agronomique de Montpellier, June.
+Doyon, M., Frigon, M., Gouin, D.-M., 1999. Impact des syste`mes de re´gulation
+du marche´ du lait de consommation sur les prix a` la production et a` la
+consommation: e´tude comparative. GREPA, Laval University.
+Falconer, K., 2000. Farm level constraints on agri-environmental scheme par-
+ticipation: A transactional perspective. J. Rural Stud. 16, 379–394.
+Franks, J., 2001. Developments in milk marketing in England and Wales during
+the 1990s. Br Food J. 103(9), 631–643.
+Fulton, M.E., Tang, Y., 1999. Testing the competitiveness of a multistage food
+marketing system: The Canadian chicken industry. Can J. Agric. Econ. 47,
+25–250.
+Gabre-Madhin, E.Z., 2001. Market Institutions, Transaction Costs, and Social
+Capital in the Ethiopian Grain Market. International Food Policy Research
+Institute, Washington, DC.
+Hobbs, J., 1997. Measuring the importance of transaction costs in cattle mar-
+keting. Am J. Agric. Econ. 79(4), 1083–1095.
+Hobbs, J., Kerr, W., 1999. Transaction costs. In: Dahiya, S.B., Singh, V. (Eds.),
+The Current State of Economics Science 4, 2111–2133.
+Hobbs, J., Young, L.M., 2001. Vertical linkages in agri-food supply chains in
+Canada and United States. Agriculture and Agri-Food Canada, Research
+and Analysis Directorate, Strategic Policy Branch 2083/E, Ottawa, 84 pp.
+House of Commons, 2009. Dairy Farmers of Britain. Environment, Food
+and Rural Affairs Committee, Fifth Report of Session. Available at
+http://www.publications.parliament.uk/pa/cm200910/cmselect/cmenvfru/
+227/227i.pdf, accessed May 2010.
+Huber, G.P., Power, D.J., 1985. Retrospective reports of strategic-level man-
+agers: Guidelines for increasing their accuracy. Strat. Manag. J. 6(2), 171–
+180.
+Johnson, R., 2000. Institutions and policy analysis. Agribusiness Perspectives
+Papers 2000. University of Melbourne, Paper 36. Available at http://www.
+agrifood.info/perspectives/2000/Johnson.html, accessed October 2009.
+Key, N., Sadoulet, E., de Janvry, A., 2000. Transaction costs and agri-
+cultural household supply response. Am J. Agric. Econ. 82, 245–
+259.
+Kuperan K., Mustafa, N., Abdullah, R., Pomeroy, R.S., Genio, E., Salamanca,
+A.M., 1998. Measuring transaction costs in fisheries co-management. Paper
+presented at the 7th Annual Conference of the International Association for
+the Study of Common Property, Canada, June 10–14.
+Masten, S.E., Meehan, J.W., Snyder, E.A., 1991. The costs of organization. J.
+Law Econ. Organ. 7(1), 1–25.
+McCann, L., Easter, K.W., 1999. Transaction costs of policies to reduce agri-
+cultural phosphorous pollution in the Minnesota River. Land Econ. 75(3),
+402–414.
+McCann, L., Colby, B., Easter, K.W., Kasterine, A., Kuperan, K.V., 2005.
+Transaction costs measurement for evaluating environmental policies. Ecol.
+Econ. 52, 527–542.
+Mettepenningen, E., Verspecht, A., Huylenbroeck, G.V., 2009. Measuring pri-
+vate transaction costs of European agri-environment schemes. J. Environ.
+Plann. Manag. 52(5), 649–667.
+Milk Development Council (MDC), 2005. Raw Milk Contracts and Relation-
+ships. The Need for Change. Milk Development Council, Economics, Ke-
+nilworth, U.K., 28 pp.
+Milk Development Council (MDC), 2007. Dairy Statistics. An Insider’s Guide.
+Dairy Co, Kenilworth, U.K., 55 pp.
+Miller, C.C., Cardinal, L.B., Glick, W.H., 1997. Retrospective reports in orga-
+nizational research: A reexamination of recent evidence. Acad. Manag. J.
+40(1), 189–204.
+Richards, T.J., 1996. The effect of supply management on dairy productivity.
+Can J. Econ. 29, 458–462.
+RMAAQ, 2008. Available at http://www.rmaaq.gouv.qc.ca/, accessed Novem-
+ber 2008.
+Royal Association of British Dairy Farmers (RABDF), 2005. Identifying the
+true costs of farmers own labor. RABDF, Kenilworth, U.K., January.
+Saussier, S., Yvrande-Billon, A., 2007. ´Economie des couˆts de transaction. La
+De´couverte, Collection Repe`res No. 407.
+St-Louis, R., Proulx, Y., 1978. An evaluation of some impacts of marketing
+boards and supply management. Paper Presented at the “Colloque France-
+Que´bec en ´Economie rurale,” Rennes, Paris.
+Veeman, M., 1987. Marketing boards: The Canadian experience. Am J. Agric.
+Econ. 69(5), 992–1000.
+Wallis, J.J., North, D.C., 1986. Measuring the transaction sector in the American
+economy, 1870–1970. In: Engerman, S. L., Gallman, R. E. (Eds.), Long-
+Term Factors in American Economic Growth. University of Chicago Press,
+Chicago.
+Wang, N., 2003. Measuring transaction costs: An incomplete survey. Ronald
+Coase Institute Working Paper No. 2. Available at http://www.coase.org/
+workingpapers/wp-2.pdf, accessed January 2009.
+Westgren, R.E., 1994. Case studies of market coordination in the poultry in-
+dustries. Can J. Agric. Econ. 42, 565–575.
+Williamson, O.E., 1985. The Economic Institutions of Capitalism. The Free
+Press, New York.
